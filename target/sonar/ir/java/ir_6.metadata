@@ -1,0 +1,6 @@
+training.security.Insecure#badFunction(Ljavax/servlet/http/HttpServletRequest;)V
+java.io.File#createTempFile(Ljava/lang/String;Ljava/lang/String;)Ljava/io/File;
+com.fasterxml.jackson.databind.ObjectMapper#<init>()V
+java.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;
+java.nio.file.Files#exists(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z
+com.fasterxml.jackson.databind.ObjectMapper#instance-init#

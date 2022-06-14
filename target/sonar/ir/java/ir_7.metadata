@@ -1,0 +1,1 @@
+training.security.Insecure#taintedSQL(Ljavax/servlet/http/HttpServletRequest;Ljava/sql/Connection;)Ljava/lang/String;

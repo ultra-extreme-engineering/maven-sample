@@ -1,0 +1,3 @@
+training.security.Insecure#modResponse(Ljavax/servlet/http/HttpServletResponse;)V
+javax.servlet.http.Cookie#instance-init#
+javax.servlet.http.Cookie#<init>(Ljava/lang/String;Ljava/lang/String;)V

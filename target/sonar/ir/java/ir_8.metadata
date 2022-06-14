@@ -1,0 +1,1 @@
+training.security.Insecure#hotspotSQL(Ljava/sql/Connection;Ljava/lang/String;)Ljava/lang/String;
