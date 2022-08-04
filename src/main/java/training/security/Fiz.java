@@ -5,5 +5,7 @@ public class Fiz {
     @Deprecated
     public void doTheThing() { }
 
+    public void doNothing() { }
+
     public void doTheThingBetter() { }
 }
